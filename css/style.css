@@ -1422,7 +1422,7 @@ img {
 
 /* Video Container */
 .video-container {
-    max-width: 800px;
+    max-width: 400px;
     margin: 0 auto;
     border-radius: 4px;
     overflow: hidden;
